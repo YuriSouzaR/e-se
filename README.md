@@ -8,4 +8,4 @@
 
 ## 🕹️ Como jogar
 
-Durante o jogo, você será apresentado a trechos da história e opções para escolher. Basta digitar o número c
+Durante o jogo, você será apresentado a trechos da história e opções para escolher. Cada escolha/decisão tomada a decorrer da história pode decidir o seu futuro! 
